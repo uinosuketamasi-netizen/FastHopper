@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.example.fasthopper.mixin",
+  "compatibilityLevel": "JAVA_21",
+
+  "mixins":
+  [
+    "HopperCooldownMixin",
+    "ExtraModeMixin",
+    "ExtraTransferMixin",
+    "HopperBlockEntityAccessor"
+  ],
+
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

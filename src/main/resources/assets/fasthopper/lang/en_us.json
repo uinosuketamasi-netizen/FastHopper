@@ -1,0 +1,17 @@
+{
+  "fasthopper.configuration.enableLog": "Debug Log",
+  "fasthopper.configuration.speed": "Hopper Speed Multiplier",
+  "fasthopper.configuration.safeMode": "Safe Mode",
+  "fasthopper.configuration.extremeMode": "Extreme Mode",
+  "fasthopper.configuration.tpsProtection": "TPS Protection",
+  "fasthopper.configuration.chunkProtection": "Chunk Protection",
+
+  "fasthopper.configuration.general": "General Settings",
+  "fasthopper.configuration.performance": "Performance Settings",
+  "fasthopper.configuration.safety": "Safety Settings",
+
+  "fasthopper.mode.safe": "SAFE",
+  "fasthopper.mode.extreme": "EXTREME",
+
+  "itemGroup.fasthopper": "Fast Hopper"
+}

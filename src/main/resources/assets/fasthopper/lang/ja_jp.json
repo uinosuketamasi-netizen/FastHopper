@@ -1,0 +1,17 @@
+{
+  "fasthopper.configuration.enableLog": "デバッグログ",
+  "fasthopper.configuration.speed": "ホッパー速度倍率",
+  "fasthopper.configuration.safeMode": "安全モード",
+  "fasthopper.configuration.extremeMode": "超高速モード",
+  "fasthopper.configuration.tpsProtection": "TPS保護",
+  "fasthopper.configuration.chunkProtection": "チャンク保護",
+
+  "fasthopper.configuration.general": "一般設定",
+  "fasthopper.configuration.performance": "パフォーマンス設定",
+  "fasthopper.configuration.safety": "安全設定",
+
+  "fasthopper.mode.safe": "安全",
+  "fasthopper.mode.extreme": "超高速",
+
+  "itemGroup.fasthopper": "Fast Hopper"
+}
